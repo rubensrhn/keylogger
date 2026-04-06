@@ -1,3 +1,5 @@
+# Projeto DIO - Keylogger Didático para Estudos de Cibersegurança
+
 📝 Descrição
 
 Este projeto consiste em um Keylogger desenvolvido em Python para fins estritamente educacionais. Ele foi criado como parte de um laboratório prático para entender como malwares de monitoramento capturam entradas de teclado e realizam a exfiltração de dados via protocolo SMTP (e-mail).
